@@ -12,5 +12,6 @@ Further scripts in this repository include:
 | 008_GeneSetEnrichmentAnalysis | Performing gene set enrichment analyses based on gene set signatures for particular sorted cell populations used for bulk RNA-seq analyses; bulk RNA-seq gene sets are compared to single-cell gene profiles to determine enrichment for each individual cell in our scRNA-seq dataset |
 | 009_CD4subset | Revamped analysis of only CD4+ T cells from scRNA-seq data |
 | 010_GDsubset | Revamped analysis of only CD4+ T cells from scRNA-seq data |
+| 011_AgDataCommonsDeposition | Creating data files to deposit on Ag Data Commons |
 
 All scripts used for this manuscript are collated and deposited at https://github.com/USDA-FSEPRU/PorcinePBMCs_bulkRNAseq_scRNAseq as well.
