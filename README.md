@@ -15,3 +15,5 @@ Further scripts in this repository include:
 | 011_AgDataCommonsDeposition | Creating data files to deposit on Ag Data Commons |
 
 All scripts used for this manuscript are collated and deposited at https://github.com/USDA-FSEPRU/PorcinePBMCs_bulkRNAseq_scRNAseq as well.
+
+Processed output files/data can be found in the Ag Data Commons at https://data.nal.usda.gov/dataset/data-reference-transcriptomics-porcine-peripheral-immune-cells-created-through-bulk-and-single-cell-rna-sequencing.
